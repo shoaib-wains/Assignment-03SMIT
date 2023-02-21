@@ -1,0 +1,175 @@
+.navbar{
+    text-align: right;
+}
+#upper{
+    font-size: 50px;
+    
+}
+.right{
+    /* float: right; */
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 50px;
+    /* width: 48%; */
+    padding-left: 300px;
+}
+.left{
+    /* float: left; */
+    display: inline-block;
+    width: 48%;
+    /* margin-top: 20px; */
+    /* margin-left: 100px;  */
+
+}
+#b1{
+    background-color: orangered;
+    width: 90px;
+    height: 30px;
+    color: white;
+}
+#b2{
+    background-color: black;
+    width: 90px;
+    height: 30px;
+    color: white;
+}
+#second{
+     text-align: center;
+     /* display: inline-block; */
+    }
+#container1{
+    /* float: left; */
+    display: inline-block;
+    margin-left: 100px;
+    width: 100px;
+}
+#container2{
+    /* float: center; */
+    display: inline-block;
+    padding-right: 80px;
+    padding-left: 80px;
+    width: 100px;
+}
+#container3{
+    /* float: right; */
+    padding-right:80px ;
+    /* margin-bottom: 10px; */
+    width: 100px;
+    display: inline-block;
+}
+#b3{
+    margin-left: 630px;
+    margin-top: 50px;
+    background-color: black;
+    color: blanchedalmond;
+    width: 100px;
+    height: 40px;
+}
+#third{
+    text-align: center;
+       }
+#fruit1{
+    display: inline-block;
+    width: 600px;
+    text-align: left;
+}
+#fruit1pic{
+    display: inline-block;
+    padding-left: 100px;
+}
+#fruit2{
+    display: inline-block;
+    width: 750px;
+    text-align: left;
+}
+#fruit2pic{
+    display: inline-block;
+    padding-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+/* fruit3 */
+#fruit3{
+    display: inline-block;
+    width: 740px;
+    text-align: left;
+}
+#fruit3pic{
+    display: inline-block;
+    padding-left: 100px;
+}
+#testimonial{
+    margin-top: 100px;
+    width: 500px;
+    /* padding-left: 500px
+    ; */
+    /* text-align: center; */
+    margin-left: 450px;
+}
+#last1{
+    display: inline-block;
+    padding-left: 10px;
+    width: 500px;
+    /* padding-bottom: 600px; */
+
+}
+#last2{
+    display: inline-block;
+    width: 500px;
+    margin-top: 10px;
+}
+.inputs{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px;
+    border-bottom: solid gray;
+    padding-bottom: 20px;
+    width: 400px;
+}
+#footers{
+    margin-top: 100px;
+}
+#a{
+    display: inline-block;
+    width: 250px;
+}
+#b{
+  display: inline-block;
+  width: 250px;
+}
+#c{
+    display: inline-block;
+    width: 250px;
+}
+#d{
+    display: inline-block;
+    width: 250px;
+    /* margin-top: 100px; */
+}
+.parah{
+    width :100px;
+    padding-left: 90px;
+    text-align: left;
+}
+#lastb{
+    margin-top: 10px;
+    float: left;
+    margin-left: 35px;
+    background-color: orangered;
+}
+#copy{
+    margin-top: 50px;
+    width: 500px;
+    margin-left: 450px;
+    background-color: gray;
+}
+.buttons{
+    margin-right: 50px;
+    background-color: white;
+    border: white;
+}
+#z1{
+    background-color: orangered;
+    border: white;
+}
